@@ -1,0 +1,4 @@
+Bujang Dayang E-Voting
+Version: 1.1.0
+Build date: 30 July 2026
+Update: Public pages display support percentages only; internal points remain Superadmin-only.

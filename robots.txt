@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /app/
+Disallow: /config/
+Disallow: /database/
+Disallow: /storage/
+Disallow: /webhook/
+Disallow: /cron/

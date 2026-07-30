@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#047857"/><stop offset="1" stop-color="#022c22"/></linearGradient></defs>
+<circle cx="60" cy="60" r="56" fill="url(#g)" stroke="#d4af37" stroke-width="4"/>
+<path d="M27 74c11-3 18-11 22-24 5 12 4 23-1 33M93 74c-11-3-18-11-22-24-5 12-4 23 1 33" fill="none" stroke="#e4c65b" stroke-width="5" stroke-linecap="round"/>
+<path d="M43 73c8 7 26 7 34 0" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round"/>
+<path d="M45 40l15-14 15 14-6 22H51z" fill="#d4af37" stroke="#f8edc7" stroke-width="2"/>
+<circle cx="60" cy="43" r="6" fill="#047857"/>
+<text x="60" y="101" text-anchor="middle" fill="#fff" font-family="Georgia" font-size="12" font-weight="700">BABEL</text>
+</svg>
